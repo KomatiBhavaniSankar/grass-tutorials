@@ -53,8 +53,10 @@ website:
         aria-label: GRASS on YouTube
 
 
-  margin-header	: |
-    [{{< fa heart >}} Support GRASS]({{< var grass.support >}}){.btn .btn-outline-support .btn role="button" align="center"}
+margin-header: |
+  [<i class="fa fa-heart"></i> Support GRASS](https://grass.osgeo.org/support/){.btn .btn-outline-support align="center"}
+
+
 
 execute:
   freeze: false
