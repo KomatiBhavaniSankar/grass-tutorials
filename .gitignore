@@ -132,6 +132,3 @@ docs
 .Rproj.user
 
 /.luarc.json
-
-
-**/*.quarto_ipynb
